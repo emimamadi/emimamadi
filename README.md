@@ -2,7 +2,7 @@
 
 * 👂 My name is Emad MZ
 
-* 🔭 I work as Freelancer Developer, Machine Learning Engineer.
+* 🔭 I work as Freelancer Frontend Developer, Machine Learning Engineer.
 
 ## Frontend Developer Tech
 
