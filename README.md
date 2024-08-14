@@ -8,11 +8,15 @@
 
 * HTML + CSS + JS + TS
 
+* Tailwind + Material UI 
+
 * React JS + Next JS
   
-* Redux
+* Redux + Tanstack Query
 
 ## Machine Learning Tech 
+
+* Python
 
 * Numpy + Pandas + Scikit Learn 
 
