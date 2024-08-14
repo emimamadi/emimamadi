@@ -14,7 +14,7 @@
 
 ## Machine Learning Tech 
 
-* Numpy + Pandas + Sickit Learn 
+* Numpy + Pandas + Scikit Learn 
 
 
 
